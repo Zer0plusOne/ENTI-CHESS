@@ -1,2 +1,2 @@
 # ENTI-CHESS
-He tenido que reiniciar el repositorio asi que renuncio a los puntos por el uso de los commits y todo eso, perdon profe
+Juego basico de ajedrez en consola hecho como practica del modulo de programacion modular para el grado superior de ASIX (ciberseguridad) de ENTI-UB CURSO: 2032-2024

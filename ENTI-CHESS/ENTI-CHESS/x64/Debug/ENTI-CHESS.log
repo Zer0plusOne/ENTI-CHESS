@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Movimiento.cpp
+  Tablero.cpp
+  UserInterfaz.cpp
+  Generando código...
+Movimiento.obj : error LNK2001: símbolo externo "char (* tablero)[8]" (?tablero@@3PAY07DA) sin resolver
+Tablero.obj : error LNK2001: símbolo externo "char (* tablero)[8]" (?tablero@@3PAY07DA) sin resolver
+UserInterfaz.obj : error LNK2001: símbolo externo "char (* tablero)[8]" (?tablero@@3PAY07DA) sin resolver
+C:\Users\PC_Zer0\Documents\GitHub\ENTI-CHESS\ENTI-CHESS\x64\Debug\ENTI-CHESS.exe : fatal error LNK1120: 1 externos sin resolver
