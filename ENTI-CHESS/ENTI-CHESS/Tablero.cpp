@@ -3,6 +3,8 @@
 #include <string>
 
 using namespace std;
+// defino la variable del tablero ya que sino el aplicativo crashea
+char tablero[tablero_SIZE][tablero_SIZE];
 
 void inicializarTablero() {
 	for (int i = 0; i < tablero_SIZE; i++) {
